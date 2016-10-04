@@ -11,16 +11,15 @@ Flickr Library Downloader is a tool that downloads all your pictures and videoes
 ## Usage
 
 1. Download this jar together with configuration file ```flickr.properties```.
-2. Edit the configuration file filling in your details:
+2. Edit the configuration file filling in your details: 
 
-```javascript
-download_period: [period to check for new content - in minutes ]
-api_key: [your api key]
-api_secret: [your api secret]
-userId: [your user ID]
-destination: [destination folder to put the image files]
-
-```
+    ```javascript
+    download_period: [period to check for new content - in minutes ]
+    api_key: [your api key]
+    api_secret: [your api secret]
+    userId: [your user ID]
+    destination: [destination folder to put the image files]
+    ```
 3. Run the application by:
 `java -jar flickr-library-downloader.jar`
 4. For the first run you will be asked to give permission for downloading media. Follow the instructions from the output. This will create a `accesstoken.ser` file which contains your access token.
