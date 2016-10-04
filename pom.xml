@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.qadeerkhan</groupId>
-    <artifactId>flickr-synchronizer</artifactId>
+    <artifactId>flickr-library-downloader</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
