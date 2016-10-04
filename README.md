@@ -10,7 +10,7 @@ Flickr Library Downloader is a tool that downloads all your pictures and videoes
 
 ## Usage
 
-1. Download [this](https://github.com/qtips/flickr-library-downloader/releases/download/0.1.0/flickr-library-downloader-0.1.0.jar) jar together with configuration file ```flickr.properties```.
+1. Download [this](https://github.com/qtips/flickr-library-downloader/releases/download/0.1.0/flickr-library-downloader-0.1.0.jar) jar together with configuration file ```flickr.properties```. Warning! there are some known issues with this version - see [release](https://github.com/qtips/flickr-library-downloader/releases/tag/0.1.0) for details. 
 2. Edit the configuration file filling in your details: 
 
     ```javascript
